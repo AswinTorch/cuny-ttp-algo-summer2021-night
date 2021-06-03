@@ -12,3 +12,5 @@ var strStr = function(haystack, needle) {
 // Return the first position of the needle in the haystack
    return haystack.indexOf(needle);
 };
+
+
